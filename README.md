@@ -1,2 +1,2 @@
 # selenium_tests
-Selenium test from Stepik course
+Selenium tests from Stepik course
